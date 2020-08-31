@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is a notebook for capital market regulations in China Mainland
+Here is where I am trying to self-learn financial modeling.
 
 You can use the [editor on GitHub](https://github.com/YiQian24/YiQian24.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
